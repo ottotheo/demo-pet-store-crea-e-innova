@@ -1,0 +1,8 @@
+{
+  "name": "COCO Pet Care",
+  "description": "A comprehensive pet management application for veterinary services, grooming, boarding, tracking, and shopping.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
